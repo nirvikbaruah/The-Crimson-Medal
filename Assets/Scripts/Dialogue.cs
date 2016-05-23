@@ -94,7 +94,7 @@ public class Dialogue : MonoBehaviour {
 		dialogue.text = "";
 		chats = new string[3];
 		chats [0] = "Nice try!";
-		chats [1] = "But sadly this suspicious picture isn't suspicious enough...";
+		chats [1] = "But sadly this isn't a clue...";
 		chats [2] = "Keep looking!";
 
 		chatCount = 0;
